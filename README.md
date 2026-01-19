@@ -73,6 +73,5 @@ The add‑on will stay installed until you close/restart Firefox.
 
 ## Download
 
-[Download MarketKilla](https://github.com/seedee007/MarketKilla/raw/1afa09e12644ad95b2b22696665a52c36f306dc9/MarketKilla.zip
-).
+[Download MarketKilla Browser Extension](https://github.com/seedee007/MarketKilla/raw/refs/heads/main/MarketKilla-Browser-Extension.zip).
 
