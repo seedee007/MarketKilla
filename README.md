@@ -34,4 +34,4 @@ Hide super annoying Marketplace item listings from shopping websites* in Austral
 
 ## Download
 
-
+https://github.com/seedee007/MarketKilla/raw/1afa09e12644ad95b2b22696665a52c36f306dc9/MarketKilla-Chrome.zip
