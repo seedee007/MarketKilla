@@ -1,7 +1,6 @@
 # MarketKilla
 Hide super annoying Marketplace item listings from shopping websites* in Australia.
-* Currently for Chrome and Brave browsers.
-* Firefox version coming shortly.
+* Currently for Chrome, Brave, Firefox and LibreWolf web browsers.
 
 ## Supported websites
 
@@ -24,7 +23,7 @@ Hide super annoying Marketplace item listings from shopping websites* in Austral
 * Clean, non-intrusive UI
 
 
-## Installation Instructions
+## Installation Instructions (Chrome / Brave)
 
 1. Download ZIP and extract the files to a folder.
 
@@ -44,6 +43,29 @@ Hide super annoying Marketplace item listings from shopping websites* in Austral
 
 9. Enjoy!
 
+
+
+## Installation Instructions (Firefox / LibreWolf)
+
+1. Download ZIP and extract the files to a folder.
+
+2. Enter `about:debugging` as the URL in your browser.​
+
+3. Click “This Firefox” (or This LibreWolf) in the left sidebar.
+4. Click “Load Temporary Add-on…”.
+5. In the file picker, select any file inside the extracted ZIP folder (for example manifest.json).
+
+6. The extension should be now installed and active!
+
+7. Visit the supported website. When the page loads, you should now see a menu at the top of the screen, displaying the number of Marketplace items hidden.
+
+8. The button on the right toggles the display of items should you wish to view them.
+
+9. Enjoy!
+
+The add‑on will stay installed until you close/restart Firefox.
+
+
 ## Example
 1. Visit https://www.bunnings.com.au/products/indoor-living/electronics/tvs-home-cinema
 2. As of 19 Jan 2026, you should see the plugin blocks 34 Marketplace items on the first page. 35 items on page two. Etc. etc.
@@ -51,6 +73,6 @@ Hide super annoying Marketplace item listings from shopping websites* in Austral
 
 ## Download
 
-[Download MarketKilla for Chrome / Brave browsers](https://github.com/seedee007/MarketKilla/raw/1afa09e12644ad95b2b22696665a52c36f306dc9/MarketKilla-Chrome.zip
+[Download MarketKilla](https://github.com/seedee007/MarketKilla/raw/1afa09e12644ad95b2b22696665a52c36f306dc9/MarketKilla.zip
 ).
 
