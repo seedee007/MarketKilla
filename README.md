@@ -1,11 +1,19 @@
 # MarketKilla
-Hide super annoying Marketplace item listings from shopping websites* in Australia. Currently for Chrome and Brave browsers. Firefox version coming in the next couple of days.
+Hide super annoying Marketplace item listings from shopping websites* in Australia.
+* Currently for Chrome and Brave browsers.
+* Firefox version coming shortly.
 
-* Works on Bunnings currently. Additional websites being currently added.
+## Supported websites
 
+* Bunnings Australia
+* ~~Big W~~ (coming soon)
+* ~~Myer~~ (coming soon)
+* ~~Woolworths~~ (coming soon)
+* ...
+  
 ## Features
 
-* Automatically hides Marketplace listings on Bunnings Australia pages
+* Automatically hides Marketplace listings on product pages
 
 * Shows a counter of filtered items
 
@@ -29,9 +37,20 @@ Hide super annoying Marketplace item listings from shopping websites* in Austral
 5. Select the **folder** you extracted from the ZIP file you downloaded.
 
 6. The extension should be now installed and active!
-7. Visiting the Bunnings website. When the page loads, you should now see a menu at the top of the screen, displaying the number of Marketplace items hidden.
-8. Enjoy!
+
+7. Visit the supported website. When the page loads, you should now see a menu at the top of the screen, displaying the number of Marketplace items hidden.
+
+8. The button on the right toggles the display of items should you wish to view them.
+
+9. Enjoy!
+
+## Example
+1. Visit https://www.bunnings.com.au/products/indoor-living/electronics/tvs-home-cinema
+2. As of 19 Jan 2026, you should see the plugin blocks 34 Marketplace items on the first page. 35 items on page two. Etc. etc.
+3. If you wish to unhide the Marketplace items, simply click the 'Show Marketplace Items' button on the top right of the Bunnings Marketplace header.
 
 ## Download
 
-https://github.com/seedee007/MarketKilla/raw/1afa09e12644ad95b2b22696665a52c36f306dc9/MarketKilla-Chrome.zip
+[Download MarketKilla for Chrome / Brave browsers](https://github.com/seedee007/MarketKilla/raw/1afa09e12644ad95b2b22696665a52c36f306dc9/MarketKilla-Chrome.zip
+).
+
